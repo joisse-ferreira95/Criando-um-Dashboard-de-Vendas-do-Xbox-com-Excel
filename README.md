@@ -49,9 +49,3 @@ Joisse Rafaelly Ferreira
 
 ---
 
-## 📬 Contato
-
-- [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Seu e-mail](mailto:seuemail@exemplo.com)
-
----
